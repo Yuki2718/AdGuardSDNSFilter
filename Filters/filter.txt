@@ -3,21 +3,15 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-18T16:09:42.271Z
+! Last modified: 2021-02-19T09:23:37.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
+||crevicedepressingpumpkin.com^
+||peuzubuqo.com^
+||viqirue.ru^
+||imuled.work^
+||matchaix.net^
 ||adcentrum.net^
 ||s.viites.com^
 ||adsmodern.com^
@@ -1919,6 +1913,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||12.beautifulero.com^
 ||d18t35yyry2k49.cloudfront.net^
 ||sak.userreport.com^
 ||api.flygame.io^
@@ -19619,6 +19614,7 @@ t.yesware.com
 ||metrics-broker.prod.p.tf1.fr^
 ||pappagallu.onefootball.com^
 ||stat.adguard.com^
+||pvtag.yahoo.co.jp^
 ||stat.adultium.com^
 ||c1.wfinterface.com^
 ||estat.zum.com^
@@ -22074,6 +22070,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadsius.com^
 ||leadsmonitor.io^
 ||leadsrx.com^
+||leafmedia.io^
 ||leanplum.com^
 ||legolas-media.com^
 ||les-experts.com^
@@ -23351,6 +23348,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ygsm.com^
 ||yieldbot.com^
 ||yieldify.com^
+||yieldlift.com^
 ||yieldsoftware.com^
 ||yjtag.jp^
 ||yldr.io^
@@ -23481,6 +23479,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shroughtened.com^
 ||sm-epsilon.com^
 ||snd.tc^
+||subscribers.com^
 ||truepush.com^
 ||viapush.com^
 ||webpu.sh^
@@ -26733,6 +26732,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||hranakel.xyz^
 ||xokikdassjjhrn.com^
 ||glygrebedu.pro^
 ||tmnlsmvgrkoj.com^
@@ -31540,6 +31540,8 @@ adbetnet.com
 !
 ! Section contains list of advertising networks
 !
+||jokingst.xyz^
+||habrox.xyz^
 ||mystighty.info^
 ||i4tvy8vk9f74.com^
 ||sohjah-thahka.info^
@@ -31608,7 +31610,7 @@ adbetnet.com
 ! Eimg.jp
 ||adingo.jp.eimg.jp^
 !
-||6ms.biz^
+||widget.cybershop-affiliate.jp^
 ||ad-arrow.com^
 ||img-c.net^
 ||z-profit.com^
@@ -33400,9 +33402,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||acptkgp.com^
-||szxhybj.com^
-||abcdlm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -33657,8 +33656,10 @@ adbetnet.com
 ||a9377j.com^
 ||aasyy.com^
 ||aazcio.cn^
+||abcdlm.com^
 ||abie14.top^
 ||acasys88.cn^
+||acptkgp.com^
 ||ad.52av.tv^
 ||ad.muyang888.top^
 ||ad9377.com^
@@ -34894,6 +34895,7 @@ adbetnet.com
 ||szpl0.com^
 ||szrk3.com^
 ||sztbjs.com^
+||szxhybj.com^
 ||szxiuchang.com^
 ||szxpsg.com^
 ||szxzytech.com^
@@ -35679,6 +35681,7 @@ adbetnet.com
 ||lxting.com^
 ||lyd.com.cn^*950-90.
 ||m.aty.sohu.com^
+||m.jsr9.com^*.js
 ||m2.lelemh.com^
 ||mall0.qiyipic.com^
 ||manage.wdfans.cn^
@@ -35789,7 +35792,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||m.jsr9.com^*.js
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
