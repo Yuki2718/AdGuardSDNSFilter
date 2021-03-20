@@ -1,5 +1,24 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/626
+||msgs.jp^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/621
+||logs.datadoghq.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/623
+||questionpro.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/618
+||justanswer.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/611
+||trust.zone^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/610
+||news.smi2.ru^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/605
+||rdstation.com^
+||rdstation.com.br^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/555
+||linkifier.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/75194
 ||pvtag.yahoo.co.jp^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/601
+||shareasale.com^
 ! https://6ms.biz/
 ||6ms.biz^
 ! https://github.com/AdguardTeam/AdGuardDNS/issues/140
