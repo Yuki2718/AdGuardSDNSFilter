@@ -3,6 +3,10 @@
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/636
+@@||daikoku.ebis.ne.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/629
+@@||envato.market^|
 ! https://github.com/AdguardTeam/AdguardFilters/pull/76413
 ! whitelist as click-through
 @@||ac.ebis.ne.jp^|
@@ -14,9 +18,13 @@
 @@||oneline.nextday.media^|
 ! Reported via Telegram: https://t.me/AdGuard_chinese/13741
 @@|ftp.bmp.ovh^|
+!
 ! Related to '||mkto-*.com^$third-party'
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/627
+@@||email.questrade.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/582
 @@||email.awscloud.com^|
+!
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/510
 @@||c.digikey.com^|
 !
